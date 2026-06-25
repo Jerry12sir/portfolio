@@ -1084,7 +1084,7 @@ h3 {
   .hero-profile {
     display: block;
     right: clamp(-0.5rem, 3vw, 1rem);
-    bottom: clamp(19rem, 30vh, 20rem);
+    bottom: clamp(11rem, 16vh, 13rem);
     z-index: 2;
     width: clamp(7.5rem, 34vw, 11rem);
     max-height: 28vh;
@@ -1106,7 +1106,7 @@ h3 {
   .telemetry-panel {
     left: 1rem;
     right: 1rem;
-    bottom: 7.5rem;
+    bottom: 4rem;
     z-index: 3;
   }
 
