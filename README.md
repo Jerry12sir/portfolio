@@ -2,8 +2,6 @@
 
 A cinematic personal portfolio for a Telecommunications and Network Engineering student. The site presents network engineering interests, education background, selected systems work, achievements, toolchain, and contact information with responsive visuals and lightweight animations.
 
-test - dev
-
 ## Features
 
 - Responsive portfolio layout for desktop and mobile
